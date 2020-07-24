@@ -1,0 +1,21 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="hp">
+    <words>
+      <w>appdirs</w>
+      <w>beautifulsoup</w>
+      <w>certifi</w>
+      <w>chardet</w>
+      <w>distlib</w>
+      <w>filelock</w>
+      <w>gunicorn</w>
+      <w>itsdangerous</w>
+      <w>jinja</w>
+      <w>joblib</w>
+      <w>nltk</w>
+      <w>soupsieve</w>
+      <w>tqdm</w>
+      <w>werkzeug</w>
+      <w>zipp</w>
+    </words>
+  </dictionary>
+</component>
